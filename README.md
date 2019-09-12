@@ -9,12 +9,14 @@ In this project we build a multi-headed model that’s capable of detecting diff
 <details>
 <summary>Click to expand</summary>
 
-- [Dataset](#datset - kaggle)
-- [Project Structure](#project structure)
-- [Performance graphs](#performance graphs)
+- [Dataset - Kaggle](#dataset-kaggle)
+- [Project Structure](#project-structure)
+- [Performance graphs](#performance-graphs)
 
+</details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
-### Dataset - kaggle
+### Dataset-kaggle
 
 - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 - ```kaggle competitions download -c jigsaw-toxic-comment-classification-challenge```
