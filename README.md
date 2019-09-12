@@ -28,6 +28,5 @@ The dataset consists of a large number of Wikipedia comments which have been lab
 ### Performance graphs
 
 1. Performance graph for training a model with CNN layers and pre-trained embeddings of 100 dimenstions.
-  
-   * ![Accuracy](https://github.com/agoel41/toxic-comment-classification/blob/master/static/acc_toxic_cnn.png)
-	   ![Loss](https://github.com/agoel41/toxic-comment-classification/blob/master/static/loss_toxic_cnn.png)
+
+![Accuracy](https://github.com/agoel41/toxic-comment-classification/blob/master/static/acc_toxic_cnn.png) ![Loss](https://github.com/agoel41/toxic-comment-classification/blob/master/static/loss_toxic_cnn.png)
