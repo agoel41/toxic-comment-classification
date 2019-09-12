@@ -21,5 +21,13 @@ The dataset consists of a large number of Wikipedia comments which have been lab
 
 ### Project Structure
 
-- static: This folder contains the static content such as images (accuracy and validation graphs) etc.
-- toxic-classification-cnn.ipynb: Ipython notebook to classify text using CNN and pretrained embeddings.
+- ***static:*** This folder contains the static content such as images (accuracy and validation graphs) etc.
+- ***toxic-classification-cnn.ipynb:*** Ipython notebook to classify text using CNN and pretrained embeddings.
+
+
+### Performance graphs
+
+1. Performance graph for training a model with CNN layers and pre-trained embeddings of 100 dimenstions.
+  
+   * ![Accuracy](https://github.com/agoel41/toxic-comment-classification/blob/master/static/acc_toxic_cnn.png)
+	   ![Loss](https://github.com/agoel41/toxic-comment-classification/blob/master/static/loss_toxic_cnn.png)
