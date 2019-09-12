@@ -1,2 +1,2 @@
-# toxic-comment-classification
+# Toxic-comment-classification
 Text classification on the toxic comment dataset from Kaggle
