@@ -17,3 +17,9 @@ The dataset consists of a large number of Wikipedia comments which have been lab
 - threat
 - insult
 - identity_hate
+
+
+### Project Structure
+
+- static: This folder contains the static content such as images (accuracy and validation graphs) etc.
+- toxic-classification-cnn.ipynb: Ipython notebook to classify text using CNN and pretrained embeddings.
