@@ -53,7 +53,7 @@ The dataset consists of a large number of Wikipedia comments which have been lab
    
 ![Accuracy](https://github.com/agoel41/toxic-comment-classification/blob/master/static/acc_toxic_lstm.png) ![Loss](https://github.com/agoel41/toxic-comment-classification/blob/master/static/loss_toxic_lstm.png)
 
-3.  Performance graph for training a model with a bi-directional LSTM layer and with pre-trained embeddings of 100 dimenstions.
+3. Performance graph for training a model with a bi-directional LSTM layer and with pre-trained embeddings of 100 dimenstions
    - toxic-classification-bilstm.ipynb
    - The performance of a bi-directional LSTM model is better than an LSTM layer model
 
