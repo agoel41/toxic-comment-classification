@@ -42,11 +42,15 @@ The dataset consists of a large number of Wikipedia comments which have been lab
 
 1. Performance graph for training a model with CNN layers and pre-trained embeddings of 100 dimenstions. 
    - toxic-classification-cnn.ipynb
+   - The performance of toxic classification dataset on CNN model is decent.
+   - This CNN model performed better on a GPU vs CPU.
 
 ![Accuracy](https://github.com/agoel41/toxic-comment-classification/blob/master/static/acc_toxic_cnn.png) ![Loss](https://github.com/agoel41/toxic-comment-classification/blob/master/static/loss_toxic_cnn.png)
 
 2. Performance graph for training a model with an LSTM layer and pre-trained embeddings of 100 dimenstions.
    - toxic-classification-lstm.ipynb
+   - The performance of LSTM model is better than a CNN model
+   - This LSTML model performed better on a GPU vs CPU.
    
 ![Accuracy](https://github.com/agoel41/toxic-comment-classification/blob/master/static/acc_toxic_lstm.png) ![Loss](https://github.com/agoel41/toxic-comment-classification/blob/master/static/loss_toxic_lstm.png)
 
